@@ -21,11 +21,13 @@ make
 
 ## STRUCTURE
 
+    ├── documentation               Documentation
+    │   └── directives.md           rezc directives   
     ├── LICENSE                     Copy of the Apache 2.0 license
     ├── Makefile                    The Makefile
     ├── README.md                   This file.
     ├── src                
-    │   └── rez.c    
+    │   └── rezc.c    
     └── tests
         ├── helloworld.txt          PDP11 baremental bin @ 2000
         ├── Makkefile               Main App
