@@ -1,0 +1,28 @@
+.name helloworld.bin
+.byte 01 27 02
+.byte 17 75 64
+.byte 01 27 01
+.byte 00 20 32
+.byte 11 21 00
+.byte 00 14 05
+.byte 11 00 62
+.byte 00 00 02
+.byte 10 57 12
+.byte 10 03 76
+.byte 00 07 71
+.byte 00 00 00
+.byte 00 07 63
+.byte 01 10
+.byte 01 45
+.byte 01 54
+.byte 01 54
+.byte 01 57
+.byte 00 54
+.byte 00 40
+.byte 01 67
+.byte 01 57
+.byte 01 62
+.byte 01 54
+.byte 01 44
+.byte 00 12
+.byte 00 00
