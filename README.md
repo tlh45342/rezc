@@ -22,7 +22,8 @@ make
 ## STRUCTURE
 
     ├── documentation               Documentation
-    │   └── directives.md           rezc directives   
+    │   ├── directives.md           rezc directives   
+    │   └── project_guidelines.md   Guidelines for project developement   
     ├── LICENSE                     Copy of the Apache 2.0 license
     ├── Makefile                    The Makefile
     ├── README.md                   This file.
@@ -32,10 +33,12 @@ make
         ├── helloworld.txt          PDP11 baremental bin @ 2000
         ├── Makkefile               Main App
         ├── test1.txt               example
-        ├── test1.txt               example
-        ├── test1.txt               example
-        └── test4.txt               example with bad directive; a primitive test
-           
+        ├── test2.txt               example
+        ├── test3.txt               example
+        ├── test4.txt               example
+        ├── test5.txt               example
+        ├── test6.txt               example with bad directive; a primitive test      
+        └── test7.txt               example .oct directive given but data is ff which is illegal
 
 # Credits
 
