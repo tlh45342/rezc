@@ -6,26 +6,26 @@ The directives currently saved for you REZC compiler include:
 
 **File Directives:**
 
-.name
+.name<br>
 
 **Data Directives:**
 
-.byte
-.word
-.dword
+.byte<br>
+.word<br>
+.dword<br>
 
 **String Directives:**
 
-.ascii
-.asciz
+.ascii<br>
+.asciz<br>
 
 **Endianness Directives:**
 
-.little-endian
-.big-endian
+.little-endian<br>
+.big-endian<br>
 
 **Base Directives (for numeric interpretation):**
 
-.dec
-.hex
+.dec<br>
+.hex<br>
 .octal
