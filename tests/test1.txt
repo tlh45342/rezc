@@ -1,0 +1,4 @@
+; comment line to be ignored
+.dec ; assume decimal input
+.name test1.bin
+.byte 0 1 2 3 4 5 6 

@@ -1,4 +1,5 @@
 .name helloworld.bin
+.octal
 .byte 01 27 02
 .byte 17 75 64
 .byte 01 27 01

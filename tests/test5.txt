@@ -1,0 +1,8 @@
+.name test5.bin
+.little-endian
+.word 0x1234
+.dword 0x12345678
+.ascii "Hello, world!"
+.asciz "Hello, null-terminated world!"
+.big-endian
+.word 0x5678

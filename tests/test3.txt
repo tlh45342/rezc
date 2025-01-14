@@ -1,0 +1,5 @@
+.name test3.bin
+.octal
+.word 0100
+.hex
+.byte 85 0c 01 00 86 0c 02 00 00 00
