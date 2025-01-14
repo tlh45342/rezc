@@ -13,9 +13,10 @@ git clone https://github.com/tlh45342/rezc.git
 # Installation
 
 To build and install rezc
+The default is for clean build install
 
 ```bash
-make install
+make
 ```
 
 ## STRUCTURE
