@@ -21,21 +21,18 @@ make install
 ## STRUCTURE
 
     ├── LICENSE                     Copy of the Apache 2.0 license
+    ├── Makefile                    The Makefile
     ├── README.md                   This file.
-    ├── requirements.txt            module requirements
-    ├── server.py                   Wsgi app
-    └── app
-       ├── __init__.py
-       ├── app.py                   Main App
-       ├── routes.py                flask routes
-       ├── user.py                  manager user management routes
-       ├── user_db.py               manage sqlite3 db       
-       ├── static                   Static files
-       │   └── mystyle.css          Fairly minimalistic choices   
-       └── templates                Jinja2 templates
-           ├── login.html
-           ├── protected.html
-           └── welcome.html
+    ├── src                
+    │   └── rez.c    
+    └── tests
+        ├── helloworld.txt          PDP11 baremental bin @ 2000
+        ├── Makkefile               Main App
+        ├── test1.txt               example
+        ├── test1.txt               example
+        ├── test1.txt               example
+        └── test4.txt               example with bad directive; a primitive test
+           
 
 # Credits
 
